@@ -175,10 +175,15 @@ Documenting a project for other developers.
 My key learning goals and takeaways are:
 
 Understanding AI: Learning how data-driven systems can support classification, prediction, automation, and decision-making.
+
 Understanding cloud computing: Learning how computing and storage resources can be accessed and managed through cloud services.
+
 Connecting AI and cloud: Understanding how cloud infrastructure can support AI applications and their deployment.
+
 Responsible development: Recognizing the importance of privacy, security, bias awareness, and model evaluation.
+
 Technical communication: Learning to organize technical information through structured documentation and workflow diagrams.
+
 Continuous learning: Identifying opportunities to build practical projects and deepen technical knowledge.
 
 
@@ -189,7 +194,5 @@ Continuous learning: Identifying opportunities to build practical projects and d
 The AICTE Internship associated with IBM SkillsBuild provides a learning opportunity to explore Artificial Intelligence and Cloud Computing, understand their real-world applications, and develop a foundation for further technical growth.
 
 This repository is intended to document the learning process, organize relevant technical concepts, and provide workflows that explain the relationship between AI, cloud infrastructure, and application development.
-
-The next step is to strengthen these foundations through practical implementation, experimentation, and well-documented projects.
 
 
