@@ -2,7 +2,6 @@
 
 
 
-
 This repository documents my learning journey through the AICTE Internship on Artificial Intelligence and Cloud Computing associated with IBM SkillsBuild.
 
 The internship provided an opportunity to explore foundational concepts in Artificial Intelligence (AI), understand cloud computing principles, learn about emerging technologies, and connect theoretical knowledge with practical applications.
@@ -50,24 +49,28 @@ Applying access controls and least-privilege principles.
 Monitoring costs, usage, and application performance.
 Documenting limitations and potential risks.
 
-
 🛠️ Technologies and Tools
 
-The following technologies are relevant to AI and cloud learning. The specific tools used should be marked according to actual internship experience.
-
-Technology or tool	Purpose
-IBM SkillsBuild	Structured learning and digital-skills resources
-AI and ML concepts	Understanding intelligent systems and predictive models
-Python	Data analysis and machine learning, where applicable
-Jupyter Notebook	Interactive coding and experimentation, where applicable
-Cloud computing concepts	Understanding cloud architecture and services
-IBM Cloud	Cloud platform concepts and services, if included in the training
-Git	Version control
-GitHub	Repository hosting and project documentation
-Markdown	Technical documentation
+The internship focuses on understanding Artificial Intelligence, Cloud Computing, and their practical applications. The following table summarizes the relevant technologies and tools, along with their purposes.
 
 
+---
 
+| S.No. | Technology / Tool | Category | Purpose |
+|:---:|---|---|---|
+| 1 | IBM SkillsBuild | Learning Platform | Provides learning resources for AI, cloud computing, and digital skills. |
+| 2 | Artificial Intelligence (AI) | Technology | Enables systems to perform intelligent tasks such as prediction and classification. |
+| 3 | Machine Learning (ML) | AI Subfield | Helps systems learn patterns from data and generate predictions. |
+| 4 | Generative AI | AI Technology | Generates text and other content using trained AI models. |
+| 5 | Cloud Computing | Technology | Provides computing resources, storage, and services over a network. |
+| 6 | IBM Cloud | Cloud Platform | Provides cloud infrastructure and services for application development and deployment. |
+| 7 | Python | Programming Language | Supports data analysis, machine learning, automation, and AI development. |
+| 8 | Jupyter Notebook | Development Tool | Supports interactive coding, experimentation, and data analysis. |
+| 9 | Git | Version Control | Tracks changes and manages project versions. |
+| 10 | GitHub | Code Hosting Platform | Hosts source code, project files, and documentation. |
+| 11 | Markdown | Documentation Language | Creates structured documentation, headings, lists, and tables. |
+
+---
 
 📂 Suggested Repository Structure
 
@@ -98,8 +101,7 @@ AICTE-IBM-SkillsBuild-Internship/
     └── README.md
 
 
-
-    Hands-On Project
+Hands-On Project
 Cloud-Ready AI Study Assistant
 
 A suitable follow-up project is an AI study assistant that helps students organize learning materials and retrieve relevant information.
@@ -151,5 +153,14 @@ Technical communication: Learning to organize technical information through stru
 Continuous learning: Identifying opportunities to build practical projects and deepen technical knowledge.
 
 
+
+
+🏁 Conclusion
+
+The AICTE Internship associated with IBM SkillsBuild provides a learning opportunity to explore Artificial Intelligence and Cloud Computing, understand their real-world applications, and develop a foundation for further technical growth.
+
+This repository is intended to document the learning process, organize relevant technical concepts, and provide workflows that explain the relationship between AI, cloud infrastructure, and application development.
+
+The next step is to strengthen these foundations through practical implementation, experimentation, and well-documented projects.
 
 
