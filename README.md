@@ -14,7 +14,8 @@
 
 The internship provided an opportunity to explore foundational concepts in Artificial Intelligence (AI), understand cloud computing principles, learn about emerging technologies, and connect theoretical knowledge with practical applications.
 
-🎯 Internship Objectives
+
+## <p style="font-size: 35px;">🎯 Internship Objectives</p>
 
 The primary objectives of this internship were to:
 
@@ -29,7 +30,8 @@ The primary objectives of this internship were to:
 
 
 
-🧠 What I Learned
+
+## <p style="font-size: 35px;">🧠 What I Learned</p>
 
 1. Relationship Between AI and Cloud Computing
 
@@ -57,7 +59,8 @@ Applying access controls and least-privilege principles.
 Monitoring costs, usage, and application performance.
 Documenting limitations and potential risks.
 
-🛠️ Technologies and Tools
+
+## <p style="font-size: 35px;">🛠️ Technologies and Tools</p>
 
 The internship focuses on understanding Artificial Intelligence, Cloud Computing, and their practical applications. The following table summarizes the relevant technologies and tools, along with their purposes.
 
@@ -80,7 +83,7 @@ The internship focuses on understanding Artificial Intelligence, Cloud Computing
 
 ---
 
-📂 Suggested Repository Structure
+## <p style="font-size: 35px;">📂 Suggested Repository Structure</p>
 
 A simple structure can help organize the internship documentation and any completed projects.
 ```
@@ -108,7 +111,8 @@ AICTE-IBM-SkillsBuild-Internship/
 └── certificates/
     └── README.md
 ```
-Hands-On Project
+
+## <p style="font-size: 35px;">📖 Hands-On Project</p>
 Cloud-Ready AI Study Assistant
 
 A suitable follow-up project is an AI study assistant that helps students organize learning materials and retrieve relevant information.
@@ -146,7 +150,8 @@ Documenting a project for other developers.
 
 
 
-📋 Learning Outcomes and Reflection
+
+## <p style="font-size: 35px;">📋 Learning Outcomes and Reflection</p>
 
 
 
@@ -162,7 +167,7 @@ Continuous learning: Identifying opportunities to build practical projects and d
 
 
 
-🏁 Conclusion
+## <p style="font-size: 35px;">🏁 Conclusion</p>
 
 The AICTE Internship associated with IBM SkillsBuild provides a learning opportunity to explore Artificial Intelligence and Cloud Computing, understand their real-world applications, and develop a foundation for further technical growth.
 
