@@ -83,7 +83,7 @@ The internship focuses on understanding Artificial Intelligence, Cloud Computing
 📂 Suggested Repository Structure
 
 A simple structure can help organize the internship documentation and any completed projects.
-
+```
 AICTE-IBM-SkillsBuild-Internship/
 │
 ├── README.md
@@ -107,8 +107,7 @@ AICTE-IBM-SkillsBuild-Internship/
 │
 └── certificates/
     └── README.md
-
-
+```
 Hands-On Project
 Cloud-Ready AI Study Assistant
 
