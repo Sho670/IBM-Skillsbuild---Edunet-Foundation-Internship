@@ -21,3 +21,33 @@ The primary objectives of this internship were to:
 8.Learn how to document technical knowledge and projects using GitHub.
 
 
+
+🧠 What I Learned
+
+1. Relationship Between AI and Cloud Computing
+
+AI and cloud computing complement each other.
+
+AI provides intelligence through data analysis, prediction, and automation.
+Cloud computing provides the infrastructure required to store data, run applications, and scale computing workloads.
+Cloud-hosted AI services can simplify experimentation and deployment.
+Cloud platforms can support collaboration, monitoring, and access management.
+
+Together, these technologies enable applications such as intelligent assistants, recommendation systems, predictive analytics, and automated document processing.
+
+2. Responsible AI and Cloud Security
+
+Developing useful AI applications requires more than technical implementation.
+
+Important considerations include:
+
+Protecting sensitive and personal information.
+Obtaining appropriate permission to use data.
+Identifying and reducing bias in datasets and model outputs.
+Evaluating model accuracy and reliability.
+Keeping credentials and API keys confidential.
+Applying access controls and least-privilege principles.
+Monitoring costs, usage, and application performance.
+Documenting limitations and potential risks.
+
+
