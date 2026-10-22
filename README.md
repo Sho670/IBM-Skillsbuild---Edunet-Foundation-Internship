@@ -9,7 +9,7 @@
 <p align="center">
   Welcome to my learning journey through the <b>AICTE Internship with IBM SkillsBuild</b> in Artificial Intelligence and Cloud Computing! 🚀
   <br>
-  Explore my key learnings, technologies, workflows, and project insights as I turn knowledge into innovation and build skills for the future. 🤖☁️
+  Explore my key learnings, technologies, workflows, and project insights as I turn knowledge into innovation and build skills for the future. 🤖
 </p>
 
 The internship provided an opportunity to explore foundational concepts in Artificial Intelligence (AI), understand cloud computing principles, learn about emerging technologies, and connect theoretical knowledge with practical applications.
@@ -42,39 +42,39 @@ The primary objectives of this internship were to:
 
 ## <p style="font-size: 25px;">1. Relationship Between AI and Cloud Computing</p>
 
-AI and cloud computing complement each other.
+1.AI and cloud computing complement each other.
 
-AI provides intelligence through data analysis, prediction, and automation.
+2.AI provides intelligence through data analysis, prediction, and automation.
 
-Cloud computing provides the infrastructure required to store data, run applications, and scale computing workloads.
+3.Cloud computing provides the infrastructure required to store data, run applications, and scale computing workloads.
 
-Cloud-hosted AI services can simplify experimentation and deployment.
+4.Cloud-hosted AI services can simplify experimentation and deployment.
 
-Cloud platforms can support collaboration, monitoring, and access management.
+5.Cloud platforms can support collaboration, monitoring, and access management.
 
-Together, these technologies enable applications such as intelligent assistants, recommendation systems, predictive analytics, and automated document processing.
+6.Together, these technologies enable applications such as intelligent assistants, recommendation systems, predictive analytics, and automated document processing.
 
 ## <p style="font-size: 25px;">2. Responsible AI and Cloud Security</p>
 
-Developing useful AI applications requires more than technical implementation.
+1.Developing useful AI applications requires more than technical implementation.
 
-Important considerations include:
+2.Important considerations include:
 
-Protecting sensitive and personal information.
+3.Protecting sensitive and personal information.
 
-Obtaining appropriate permission to use data.
+4.Obtaining appropriate permission to use data.
 
-Identifying and reducing bias in datasets and model outputs.
+5.Identifying and reducing bias in datasets and model outputs.
 
-Evaluating model accuracy and reliability.
+6.Evaluating model accuracy and reliability.
 
-Keeping credentials and API keys confidential.
+7.Keeping credentials and API keys confidential.
 
-Applying access controls and least-privilege principles.
+8.Applying access controls and least-privilege principles.
 
-Monitoring costs, usage, and application performance.
+9.Monitoring costs, usage, and application performance.
 
-Documenting limitations and potential risks.
+10.Documenting limitations and potential risks.
 
 ---
 ## <p style="font-size: 35px;">🛠️ Technologies and Tools</p>
